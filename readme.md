@@ -3,6 +3,8 @@
 - Have a good coffee
 - Make a delicious breakfast
 - Read a good book
-- Make a delicious dessert
+- Make a delicious dessert!
+- Study some business course
+- Study some finance course
 - Study some programing course
 - Study some basic courses: math, comunication, etc
