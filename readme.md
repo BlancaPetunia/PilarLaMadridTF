@@ -4,4 +4,5 @@ Hobbies in main:
 - Make a delicious breakfast
 - Read a good book
 - Make a delicious dessert!
-- Go to swim
+- Study some business course
+- Study some finance course
