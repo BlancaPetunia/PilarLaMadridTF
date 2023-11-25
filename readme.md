@@ -1,6 +1,8 @@
-Hobbies in main:
+	Hobbies in main:
 - Have a good walk alone or with your dog
 - Have a good coffee
 - Make a delicious breakfast
 - Read a good book
-- Make a delicious dessert!
+- Make a delicious dessert
+- Study some programing course
+- Study some basic courses: math, comunication, etc
